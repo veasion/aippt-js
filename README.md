@@ -67,14 +67,3 @@ https://docmee.cn/open-platform
 商业合作 & 进群交流：
 
 ![qrcode](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/contact_me_qr.png)
-
-
-
-# 🌟 Star History
-
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=veasion/aippt&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=veasion/aippt&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=veasion/aippt&type=Date" />
-</picture>
